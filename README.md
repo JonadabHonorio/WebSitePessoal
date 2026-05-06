@@ -3,7 +3,7 @@
 ## <img alt="Icone-Ideia" width="30" src="https://img.icons8.com/?size=100&id=21083&format=png&color=000000"/> Sobre o Projeto 
   <strong><div>
     <p>A principal motivação foi criar um espaço para compartilhar projetos e informações profissionais. Me desafiei a constuir o HTML de maneira semântica, busquei diversas referências de           layaout e metodos para melhorar a usabilidade do site. </p>
-  </div></div>strong>
+  </div></div></strong>
 
 ## <img alt="Icone-Ferramentas" width="30" src="https://img.icons8.com/?size=100&id=43171&format=png&color=000000"/> Tecnologias Utilizadas
  <strong><ul> 
